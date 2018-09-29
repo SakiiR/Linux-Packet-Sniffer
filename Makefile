@@ -7,7 +7,7 @@ RM = rm -f
 
 CFLAGS += -W -Wall -Werror -Wextra -pedantic -ansi
 
-NAME = raw_sock
+NAME = raw_sock.out
 
 LDFLAGS	+=
 
